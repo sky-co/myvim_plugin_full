@@ -1,6 +1,7 @@
 # vim
 
-  git remote add origin https://username:password@github.com/yourdir/yourproject.git
-  git push -u origin master
+  `git remote add origin https://username:password@github.com/yourdir/yourproject.git`
   
-  ln -s .vim/myvimrc .vimrc
+  `git push -u origin master`
+  
+  `ln -s .vim/myvimrc .vimrc`
